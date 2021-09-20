@@ -98,7 +98,7 @@
     transform: none;
   }
 }
-.open-chat__heart-count:hover i {
+.open-post__heart-count:hover i {
   will-change: transform;
   animation: heartBeat 2s linear infinite;
 }
